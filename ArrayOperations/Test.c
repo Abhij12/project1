@@ -4,7 +4,7 @@
 
 void main() {
 
-   // you can use this function after copying the header files in your include folder in turboc 
+   // you can use these function after copying the header files in your include folder in turboc 
    // Array_1d();
    // Array_2d();
    // bubble();
